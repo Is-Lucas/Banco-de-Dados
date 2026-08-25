@@ -57,3 +57,5 @@ SELECT
 FROM Produto p
 INNER JOIN Categoria c
     ON p.Categoria_ID = c.ID;
+
+    aaaaaaaaaaaaa
